@@ -1,3 +1,8 @@
+// Stacey Pierre
+// COP3502
+// Lab 9 
+// April 12, 2024
+
 #include <stdio.h>
 #include <stdlib.h> // Include this for malloc and exit
 
